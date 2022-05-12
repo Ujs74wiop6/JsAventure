@@ -6,4 +6,4 @@ var curso = "BSI - IFSP - Votuporanga SP"
 console.log("Eu sou " + nome)
 console.log("Tenho " + idade)
 console.log("Sexo: " + sexo)
-console.log("Cursando: " + curso)s
+console.log("Cursando: " + curso)
